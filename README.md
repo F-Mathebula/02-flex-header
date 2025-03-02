@@ -1,2 +1,2 @@
-# 02-flex-header
+# A Basic Header
 Flexbox rules are used to create a very common webpage header style.
